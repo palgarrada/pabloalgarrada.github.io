@@ -1,52 +1,55 @@
 {
   "publications": [
     {
-      "title": "[Paper Title 1]",
+      "title": "La col·laboració publicoprivada en la transformació de Barcelona: aprenentatges de les agències mixtes",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11†",
-        "Author 12†"
+        "Pablo Algarrada"
       ],
-      "venue": "Preprint (2025)",
-      "thumbnail": "images/thumbs/1.jpg",
+      "venue": "Revista Econòmica de Catalunya (2025)",
+      "thumbnail": "images/thumbs/pub1.jpg",
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "#",
-        "code": "#",
-        "project": "#"
+        "pdf": "https://www.coleconomistes.cat/Canales/Ficha.aspx?IdMenu=1e333773-ef9d-4d24-a878-86732e3a51dd&Cod=7731fb63-e969-4111-bd5b-99a2e8154ca8&Idioma=ca-ES"
       }
     },
     {
-      "title": "[Paper Title 2]",
+      "title": "Col.laboració empresarial publicoprivada en la transformació urbana de grans ciutats europees: El districte de Ciutat Vella a Barcelona (1988-2002)",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11"
+        "Pablo Algarrada"
       ],
-      "venue": "Preprint (2025)",
-      "thumbnail": "images/thumbs/2.jpg",
+      "venue": "IV Congrès d'Economia i Empresa de Catalunya (2025)",
+      "thumbnail": "images/thumbs/pub2.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://www.coleconomistes.cat/MAILS/DOCS/147-Col%C3%82%C2%B7laboraci%C3%83%C2%B3%20empresarial%20publicoprivada.pdf"
+      }
+    },
+    {
+      "title": "Procesos de gentrificación en perspectiva histórica: el distrito de Ciutat Vella en Barcelona, un estudio de caso (1992-2022)",
+      "authors": [
+        "Pablo Algarrada"
+      ],
+      "venue": "Universitat de Barcelona - Master's Thesis (2023)",
+      "thumbnail": "images/thumbs/pub3.jpg",
+      "selected": 0,
+      "award": "Premio Extraordinario de Máster",
+      "links": {
+        "pdf": "https://hdl.handle.net/2445/202560"
+      }
+    },
+    {
+      "title": "Análisis de la potencial correlación entre alojamiento compartido y criminalidad. Caso Airbnb en Barcelona",
+      "authors": [
+        "Pablo Algarrada"
+      ],
+      "venue": "Universitat Autònoma de Barcelona - Bachelor's Thesis (2022)",
+      "thumbnail": "images/thumbs/pub4.jpg",
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "#"
+        "pdf": "https://ddd.uab.cat/record/263118"
       }
     }
   ]
