@@ -38,6 +38,25 @@
             gap: 5px;
             text-decoration: none;
         }
+
+        /* Ocultar imágenes rotas en publicaciones */
+        #publications-container img {
+            display: none !important;
+        }
+        
+        /* Forzar que el texto ocupe todo el ancho */
+        .pub-row { 
+            display: block !important; 
+        }
+        .col-sm-2 {
+            display: none !important;
+        }
+        .col-sm-10 {
+            width: 100% !important;
+            flex: 0 0 100% !important;
+            max-width: 100% !important;
+            padding-left: 0 !important;
+        }
     </style>
 </head>
 
